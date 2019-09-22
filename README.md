@@ -6,7 +6,7 @@ Nice examples of interleaving observations
                                                                                                                           
        Put married couples in consecutive observations                                                                    
                                                                                                                           
-         Three Solutions                                                                                                  
+         Seven Solutions                                                                                                  
                                                                                                                           
              a. two set statements                                                                                        
                 KSharpe                                                                                                   
